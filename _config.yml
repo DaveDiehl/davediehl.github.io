@@ -1,15 +1,14 @@
 # Site settings
-title: Dave on Software
+title: Dave on DevOps
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: dadiehl@gmail.com
 copyright_name: Dave Diehl
 description: "Testing the Jekyll engine"
 baseurl: ""
 url: "http://agiledavediehl.com"
-twitter_username: SBootstrap
+twitter_username: agiledavediehl
 github_username:  davediehl
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email_username:  dadiehl@gmail.com
 
 # Build settings
 markdown: kramdown
