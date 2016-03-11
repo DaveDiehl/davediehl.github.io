@@ -6,7 +6,7 @@ date:       2016-03-9 12:00:00
 author:     "Dave Diehl"
 header-img: "img/post-bg-01.jpg"
 ---
-<h2>Agile = Awesome?</h2>
+<h3>Agile = Awesome?</h3>
 There are many reasons to adopt agile, but the list must start with increased productivity. Businesses exist to
 make money and agile proponents are quick to cite large increases in productivity when adopting agile.
 For example, Jeff Sutherland talks about "hyperproductivity" with agile leading to increasing productivity by 800%.
@@ -15,7 +15,7 @@ This is an actual image of a business executive that has been promised a 800% in
 
 <img src="https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif" height="250" width="250" >
 
-<h2>Agile = Fail?</h2>
+<h3>Agile = Fail?</h3>
 Yet many, many teams fail to come anywhere close to increasing their productivity by 800%.
 Even signers of the Agile Manifesto have called agile <a href="http://blog.toolshed.com/2015/05/the-failure-of-agile.html">failed</a> or <a href="http://insights.dice.com/2015/05/14/is-agile-development-a-failing-concept/">dead</a>. Those same business leaders
 who were promised that giant productivity increase now fail to see it.  
@@ -25,7 +25,7 @@ and sometimes the same executives who champion agile will be the first ones to b
 
 But is there something wrong with agile or is there something else going on?
 
-<h2>The Hidden Ingredient is Frequent Delivery</h2>
+<h3>The Hidden Ingredient is Frequent Delivery</h3>
 The key ingredient to successful agile teams is the technical ability to deliver quality software on a cadence. <a href="http://www.infoq.com/news/2015/07/sutherland-agile-leadership">Jeff Sutherland says </a>,
 
 > Any Scrum without working product at the end of a sprint is a failed Scrum. 80% of the scaled Scrum in Silicon Valley is in this category. They are 'Agile in Name Only.'

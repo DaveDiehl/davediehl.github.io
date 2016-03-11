@@ -1,12 +1,6 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 15px;
   color: #404040;
 }
 p {
@@ -24,7 +18,13 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-},
+}
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
 a {
   color: #404040;
 }
