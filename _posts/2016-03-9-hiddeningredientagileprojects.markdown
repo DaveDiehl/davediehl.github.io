@@ -6,7 +6,7 @@ date:       2016-03-9 12:00:00
 author:     "Dave Diehl"
 header-img: "img/Plain-Dark-Brown-Wallpaper.jpg"
 ---
-<h3>Agile = Awesome?</h3>
+<h3>The Great Promise of Agile Productivity</h3>
 There are many reasons to adopt agile, but the list must start with increased productivity. Businesses exist to
 make money and agile proponents are quick to cite large increases in productivity when adopting agile.
 For example, Jeff Sutherland talks about "hyperproductivity" with agile leading to increasing productivity by 800%.
@@ -15,7 +15,7 @@ This is an actual image of a business executive that has been promised a 800% in
 
 <img src="https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif" height="250" width="250" >
 
-<h3>Agile = Fail?</h3>
+<h3>Does Agile Fail to Deliver?</h3>
 Yet many, many teams fail to come anywhere close to increasing their productivity by 800%.
 Even signers of the Agile Manifesto have called agile <a href="http://blog.toolshed.com/2015/05/the-failure-of-agile.html">failed</a> or <a href="http://insights.dice.com/2015/05/14/is-agile-development-a-failing-concept/">dead</a>. Those same business leaders
 who were promised that giant productivity increase now fail to see it.  
