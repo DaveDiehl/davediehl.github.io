@@ -4,7 +4,7 @@ title:      "The hidden ingredient of successful agile projects"
 subtitle:   "Why some agile projects fail and others succeed"
 date:       2016-03-9 12:00:00
 author:     "Dave Diehl"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/Plain-Dark-Brown-Wallpaper.jpg"
 ---
 <h3>Agile = Awesome?</h3>
 There are many reasons to adopt agile, but the list must start with increased productivity. Businesses exist to
