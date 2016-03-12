@@ -30,11 +30,15 @@ But is there something wrong with agile or is there something else going on?
 <h3>The Hidden Ingredient is the Ability to Release Frequently to Production</h3>
 Successful agile teams can release software frequently to production. The greater your ability to do this, the more your capacity to delight your customer and deliver value.
 
+**Don't put your software on layaway - Release at least weekly**
+
 If you can only release software once a month, you are putting your software on a layaway plan. (Layway plans were purchasing plans where the store kept your item until you paid it off.)
 
-There's a reason layaway plans don't exist anymore. Customers want there stuff now. The same goes for software. Customer want there stuff now.
+There's a reason layaway plans don't exist anymore. Customers want their stuff now. The same goes for software customers. Your customer wants the value now, not in a few months
 
-Even if you don't agree with me, let's look at what some of the most prominent industry leaders say.
+**What industry leaders say**
+
+Even if you don't agree with me, let's look at what the creators of Scrum and Kanban say.
 
  <a href="http://www.infoq.com/news/2015/07/sutherland-agile-leadership">Jeff Sutherland says </a>,
 
@@ -51,7 +55,7 @@ The reason frequent delivery is a hidden ingredient is that it is **hard**. Most
 
 What makes it worse is that often process experts assume that you have good software developers and operations people. There's an underlying belief that if the process is fixed, then the development team will be able to speed up delivery. I have found that assumption to be wrong.
 
-What happens in these situations is that agile process is labeled as a failure while the root cause was actually poor technical execution. Standups and cards will not fix poor coding practices.
+What happens in these situations is that agile process is labeled as a failure while the root cause was actually poor technical execution. **Standups and cards will not fix poor coding practices.**
 
 <h3>Enter DevOps</h3>
 That's why I believe the DevOps movement is important. It's about developing the ability to release quality software quickly to production. Whether or not you use kanban or Scrum, having this ability is key to becoming productive and delivering high value to your customers. Without this ability, your teams will be destined for mediocre results.
