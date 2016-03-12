@@ -2,7 +2,7 @@
 layout:     post
 title:      "The hidden ingredient of successful agile projects"
 subtitle:   "Why some agile projects fail and others succeed"
-date:       2016-03-9 12:00:00
+date:       2016-03-12 12:00:00
 author:     "Dave Diehl"
 header-img: "img/Plain-Dark-Brown-Wallpaper.jpg"
 ---
