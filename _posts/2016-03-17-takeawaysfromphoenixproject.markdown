@@ -2,10 +2,12 @@
 layout:     post
 title:      "Key Ideas and Takeaways from the Phoenix Project"
 subtitle:   "Too busy to read book reviews"
+excerpt:    "Quick Summary of the Phoenix Project"
 date:       2016-03-17 12:00:00
 author:     "Dave Diehl"
 header-img: "img/Plain-Dark-Brown-Wallpaper.jpg"
 ---
+
 <h3>The Phoenix Project</h3>
 [The Phoenix Project](http://www.amazon.com/gp/product/0988262509?keywords=phoenix%20proejct&qid=1458265691&ref_=sr_1_sc_1&sr=8-1-spell) is one of the most important books in the DevOps movement.
 
@@ -80,4 +82,4 @@ The book introduces the concept of the Three Ways, which help us understand the 
     and your people are 100% utilized, there's a good chance that your team is bottleneck for other
     teams.
 
-    Keeping your people busy may make it appear you are making progress, but is often actually moving you further away from the overall goal of maximing flow through the system.
+    Keeping your people busy may make it appear you are making progress, but is often actually moving you further away from the overall goal of maximizing flow through the system.
