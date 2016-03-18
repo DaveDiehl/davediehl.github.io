@@ -2,7 +2,7 @@
 layout:     post
 title:      "Key Ideas and Takeaways from the Phoenix Project"
 subtitle:   "Too busy to read book reviews"
-excerpt:    "Quick Summary of the Phoenix Project"
+excerpt:    "Takeaways:  1.  DevOps is Applied Kanban 2. DevOps isn't only about tools. 3. If your people are 100% utilized, you are introducting waste"
 date:       2016-03-17 12:00:00
 author:     "Dave Diehl"
 header-img: "img/Plain-Dark-Brown-Wallpaper.jpg"
