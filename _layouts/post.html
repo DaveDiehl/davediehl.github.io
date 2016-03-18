@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
-<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
-<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
-<meta property="og:image" content="{% if page.featured_image %}{{ page.featured_image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:site_name" content="Dave on DevOps">
-<meta property="og:locale" content="{{ site.locale }}">
 
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
